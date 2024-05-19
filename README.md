@@ -1,9 +1,8 @@
 # CREWAI RAG LANGCHAIN QDRANT 🤼
 
 <p align="center">
-  <img width="976" alt="crewai" src="https://github.com/benitomartin/crewai-rag-langchain-qdrant/assets/116911431/c8e42752-d6d7-4360-b022-7fc3503d6342">
+  <img width="976" alt="crewai" src="https://github.com/benitomartin/benitomartin.github.io/assets/116911431/a1fe4ed5-1e04-4a02-94ee-8514cb9bfd40">
 </p>
-
 
 This repository contains a full Q&A pipeline using LangChain framework, Qdrant as vector database and CrewAI as Agents. The data used is "The Attention Mechanism" research paper, but the RAG pipeline is structure to analyze research papers and provide an analysis and summary. Therefore it can use any other research paper. Use this **[Link](https://nbviewer.org/github/benitomartin/crewai-rag-langchain-qdrant/blob/main/crewAI_RAG_Qdrant.ipynb)** if the notebook cannot be opened.
 
