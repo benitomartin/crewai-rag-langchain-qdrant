@@ -1,0 +1,9 @@
+qdrant-client
+langchain
+langchain_openai
+langchainhub
+langchain-community
+crewai 
+crewai_tools
+ipykernel
+python-dotenv
