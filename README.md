@@ -1,7 +1,7 @@
-# CREWAI RAG QDRANT 🤼
+# CREWAI RAG LANGCHAIN QDRANT 🤼
 
 <p align="center">
-<img width="557" alt="Screenshot 2024-05-19 134214" src="https://github.com/benitomartin/agentic-rag-langchain-pinecone/assets/116911431/33d5edac-86ee-4af7-a3a5-720a6d63d74f">
+  <img width="976" alt="crewai" src="https://github.com/benitomartin/crewai-rag-langchain-qdrant/assets/116911431/c8e42752-d6d7-4360-b022-7fc3503d6342">
 </p>
 
 
